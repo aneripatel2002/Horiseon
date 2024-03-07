@@ -16,7 +16,7 @@ header {
 header h1 {
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 	display: inline-block;
-	font-size: 48px;
+	font-size: 55px;
 	margin-left: 2%;
 }
 header h1 .seo {
@@ -81,7 +81,7 @@ a {
 .information section h2 {
 	display: flex;
 	flex-wrap: wrap;
-	font-size: 36px;
+	font-size: 38px;
 	min-width: 350px;
 	padding: 20px;
 
@@ -120,5 +120,5 @@ footer {
 	padding: 30px;
 }
 footer h2 {
-	font-size: 20px;
+	font-size: 25px;
 }
